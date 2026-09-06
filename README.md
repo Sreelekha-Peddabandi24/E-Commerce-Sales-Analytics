@@ -150,3 +150,5 @@ Screenshots/
 ## 🔗 Internship Project
 
 Completed as part of the **Primeor Solutions Data Analytics Internship Program**.
+
+---
